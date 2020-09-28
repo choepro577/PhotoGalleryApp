@@ -46,24 +46,21 @@ class ViewController: UIViewController {
         switch status {
         case .authorized:
             self.loadAllAlbum()
-            
             break
         case .denied, .restricted, .notDetermined:
             PHPhotoLibrary.requestAuthorization { [weak self] (authorization) in
                 if authorization == .authorized {
                     self?.loadAllAlbum()
                 } else {
-                    self?.alertToEncouragePhotoLibraryAccessWhenApplicationStarts()
+                    self?.alert()
                 }
             }
             break
         }
     }
     
-    
-    func alertToEncouragePhotoLibraryAccessWhenApplicationStarts()
+    func alert()
     {
-        //Photo Library not available - Alert
         let cameraUnavailableAlertController = UIAlertController (title: "Photo Library Unavailable", message: "Please check to see if device settings doesn't allow photo library access", preferredStyle: .alert)
         self.present(cameraUnavailableAlertController , animated: true, completion: nil)
     }
