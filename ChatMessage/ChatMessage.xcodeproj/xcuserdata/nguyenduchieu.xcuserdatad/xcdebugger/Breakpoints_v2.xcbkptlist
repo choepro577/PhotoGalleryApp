@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FC734B7B-02BF-49FA-8DC7-82ABD20BAA51"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D4D1231-E1C2-4FA8-90B8-E1496A482716"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatMessage/CellBoxMessage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CellBoxMessage"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6D4D1231-E1C2-4FA8-90B8-E1496A482716 - b360664e0fdeab08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessage.CellBoxMessage.image1.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ChatMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenduchieu/Desktop/ChatMessage/ChatMessage/CellBoxMessage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6D4D1231-E1C2-4FA8-90B8-E1496A482716 - 28e0616f81ecaf1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessage.CellBoxMessage.image1.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ChatMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenduchieu/Desktop/ChatMessage/ChatMessage/CellBoxMessage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "6D4D1231-E1C2-4FA8-90B8-E1496A482716 - ef0209d55605180d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessage.CellBoxMessage.image1.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "ChatMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenduchieu/Desktop/ChatMessage/ChatMessage/CellBoxMessage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "65">
+               </Location>
+               <Location
+                  uuid = "6D4D1231-E1C2-4FA8-90B8-E1496A482716 - 2363e72a6c49bffe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessage.CellBoxMessage.image1.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ChatMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenduchieu/Desktop/ChatMessage/ChatMessage/CellBoxMessage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "6D4D1231-E1C2-4FA8-90B8-E1496A482716 - f37a99914788ef6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessage.CellBoxMessage.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; ChatMessage.CellBoxMessage"
+                  moduleName = "ChatMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenduchieu/Desktop/ChatMessage/ChatMessage/CellBoxMessage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "1049">
+               </Location>
+               <Location
+                  uuid = "6D4D1231-E1C2-4FA8-90B8-E1496A482716 - 87fe3fc7473bc82b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessage.CellBoxMessage.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ChatMessage.CellBoxMessage&gt;"
+                  moduleName = "ChatMessage"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenduchieu/Desktop/ChatMessage/ChatMessage/CellBoxMessage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "990">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
